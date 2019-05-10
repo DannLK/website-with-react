@@ -1,0 +1,15 @@
+.Logo {
+  max-height: 50%;
+  max-width: 50%;
+  overflow: visible;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.nav-item {
+  margin-right: 40px;
+}
+
+.nav-link {
+  color: #000000;
+}

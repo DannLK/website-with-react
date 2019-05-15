@@ -2,9 +2,7 @@
   height: 80%;
 }
 
-.carousel-fade .carousel-inner {
-}
-
-.carousel-control-prev-icon {
-  font-size: 150%;
+.d-block w-100 {
+  margin-top: 0%;
+  margin-bottom: 20%;
 }

@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import Navbar from "./components/Header/Navbar";
-import Carousel from "./components/Carousel/Carousel";
 
 class HomePage extends Component {
   state = {};
@@ -8,7 +7,6 @@ class HomePage extends Component {
     return (
       <React.Fragment>
         <Navbar />
-        <Carousel />
       </React.Fragment>
     );
   }
